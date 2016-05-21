@@ -6,6 +6,8 @@ int main(){
 
 
 prtinf("hi\n");
+prtinf("hi1\n”);
+
 
 return 0 ;
 }
